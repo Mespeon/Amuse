@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<questionsheet shelf="BLKSQR2">
+  <!-- QUESTIONNAIRE SET FOR BLACK SQUARE 2 -->
+  <!-- THIS LIST IS TO BE UPDATED REGULARLY ALONG THE COURSE OF THIS -->
+  <!-- PROGRAM'S DEVELOPMENT. THIS DOCUMENT IS CURRENTLY VERSION 1.0 -->
+  <question number="1">
+    <body>CMYK means _______________</body>
+    <choices>
+      <a>Cyan, Magenta, Yellow, Black</a>
+      <b>Cyan, Magenta, Yellow, Kiwi</b>
+      <c>Cyan, Maroon, Yosemite, Brick</c>
+      <d>Cool, Young, Majestic Kid</d>
+    </choices>
+    <answer>Cyan, Magenta, Yellow, Black</answer>
+  </question>
+  
+  <question number="2">
+    <body>She gave voice to Vocaloid Miku Hatsune.</body>
+    <choices>
+      <a>Sawaki Mami</a>
+      <b>Saki Fujita</b>
+      <c>Shihouin Yoruichi</c>
+      <d>Kirishima Shouko</d>
+    </choices>
+    <answer>Saki Fujita</answer>
+  </question>
+
+  <question number="3">
+    <body>An oxide containing just one atom of oxygen in the molecule.</body>
+    <choices>
+      <a>pentaoxide</a>
+      <b>dioxide</b>
+      <c>trioxide</c>
+      <d>monoxide</d>
+    </choices>
+    <answer>monoxide</answer>
+  </question>
+
+  <question number="4">
+    <body>It is the process of programmed cell death that may occur in multicellular organisms.</body>
+    <choices>
+      <a>approximity</a>
+      <b>apoptosis</b>
+      <c>necrosis</c>
+      <d>rigor mortis</d>
+    </choices>
+    <answer>apoptosis</answer>
+  </question>
+
+  <question number="5">
+    <body>A colorless and extremely poisonous liquid that boils at slightly above room temperatures.</body>
+    <choices>
+      <a>monoxide</a>
+      <b>cyanide</b>
+      <c>granite</c>
+      <d>nitrogen</d>
+    </choices>
+    <answer>cyanide</answer>
+  </question>
+</questionsheet>

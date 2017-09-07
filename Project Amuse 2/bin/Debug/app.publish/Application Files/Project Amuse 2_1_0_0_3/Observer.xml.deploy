@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<OBSERVER>
+  <GAMECOLLECTION>
+    <BLACKSQUARE2>
+      <TITLE>Black Square 2</TITLE>
+      <VERSION>1.0</VERSION>
+      <DEV>MN</DEV>
+      <DESCRIPTION>A quiz game, and more. Named after the hardest version of the DJMAX Portable series, this game will take you through 200 different questions with varying difficulty.</DESCRIPTION>
+    </BLACKSQUARE2>
+
+    <BLACKSQUAREOR>
+      <TITLE>Black Square: Original</TITLE>
+      <VERSION>FINAL</VERSION>
+      <DEV>MN</DEV>
+      <DESCRIPTION>The original Black Square quiz game coded in C++ will now rock your VB.NET world. And you thought quiz games are easy.</DESCRIPTION>
+    </BLACKSQUAREOR>
+  </GAMECOLLECTION>
+</OBSERVER>

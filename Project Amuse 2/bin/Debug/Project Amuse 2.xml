@@ -1,0 +1,160 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProjectAmuse2
+</name>
+</assembly>
+<members>
+<member name="P:Project_Amuse_2.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Project_Amuse_2.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Project_Amuse_2.My.Resources.Resources.black_square_2_logo_trans">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project_Amuse_2.My.Resources.Resources.game_pic_black_square_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project_Amuse_2.My.Resources.Resources.game_pic_default">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project_Amuse_2.My.Resources.Resources.gmc_mode_btn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project_Amuse_2.My.Resources.Resources.pa_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:Project_Amuse_2.My.Resources.Resources.pa_icon_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:Project_Amuse_2.My.Resources.Resources.Project_Amuse___Black_Rock_Shooter_Splash_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project_Amuse_2.My.Resources.Resources.Project_Amuse___Suzumiya_Haruhi_Registration_Form_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project_Amuse_2.My.Resources.Resources.relaxed_mode_btn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project_Amuse_2.My.Resources.Resources.Splasher_BG_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project_Amuse_2.My.Resources.Resources.standard_mode_btn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project_Amuse_2.My.Resources.Resources.time_attack_mode_btn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project_Amuse_2.My.Resources.Resources.time_attack_mode_btn1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Project_Amuse_2.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSet.amusersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSet.questionnaireDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSet.tblContactsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSet.amusersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSet.questionnaireRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSet.tblContactsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSet.amusersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSet.questionnaireRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSet.tblContactsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSetTableAdapters.amusersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSetTableAdapters.questionnaireTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSetTableAdapters.tblContactsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Project_Amuse_2.AmuseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Project_Amuse_2.AmuseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Project_Amuse_2.AmuseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Project_Amuse_2.AmuseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Project_Amuse_2.AmuseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Project_Amuse_2.AmuseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Project_Amuse_2.AmuseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Project_Amuse_2.AmuseDataSetTableAdapters.TableAdapterManager.UpdateAll(Project_Amuse_2.AmuseDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Project_Amuse_2.AmuseDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

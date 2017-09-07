@@ -1,0 +1,26 @@
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\bin\Debug\ProjectAmuse.mdb
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\bin\Debug\Project Amuse 2.exe.config
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\bin\Debug\Project Amuse 2.exe
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\bin\Debug\Project Amuse 2.pdb
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\bin\Debug\Project Amuse 2.xml
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project_Amuse_2.BlackSquareGame.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project_Amuse_2.BlackSquareResults.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project_Amuse_2.BlackSquareSettings.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project_Amuse_2.BlackSquareSplash.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project_Amuse_2.Gate.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project_Amuse_2.Resources.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project_Amuse_2.Overview.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project_Amuse_2.Register.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project_Amuse_2.Shop.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project_Amuse_2.Splash.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project Amuse 2.vbproj.GenerateResource.Cache
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project Amuse 2.exe
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project Amuse 2.xml
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project Amuse 2.pdb
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project_Amuse_2.Guide.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\bin\Debug\Project Amuse 2.exe.manifest
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\bin\Debug\Project Amuse 2.application
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project Amuse 2.exe.manifest
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project Amuse 2.application
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project_Amuse_2.About.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2010\Projects\Project Amuse 2\Project Amuse 2\obj\x86\Debug\Project_Amuse_2.Passgen.resources
